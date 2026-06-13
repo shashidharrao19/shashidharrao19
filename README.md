@@ -16,13 +16,6 @@
 
 ---
 
-### 🚀 Currently Building
-
-- **Sears India** → Fully autonomous voice AI call-center (Deepgram STT → multi-agent orchestrator → ElevenLabs TTS, real-time VAD, scaling to ~1M calls)
-- **Discover Bioinsights** → Solo-built & shipped HIPAA-compliant EHR SaaS (live in 5 hospitals, ~1000 patients, ICU modules + major expansion pipeline)
-
----
-
 ### 🛠 Tech Stack
 
 **Languages**
