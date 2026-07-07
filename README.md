@@ -78,18 +78,15 @@
 
 ### 📊 GitHub Activity
 
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashidharrao19&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashidharrao19&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shashidharrao19&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashidharrao19&theme=radical" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashidharrao19&theme=radical&utcOffset=5.5" alt="Productive Time"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashidharrao19&theme=radical" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shashidharrao19&theme=radical" alt="Most Commit Language"/>
 </p>
 
 ---
